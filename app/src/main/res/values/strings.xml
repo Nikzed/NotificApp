@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificApp</string>
+    <string name="main_text">Create new notification</string>
+</resources>
